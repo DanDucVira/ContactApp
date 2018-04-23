@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\C#Projects\ContactsList\ContactsList\bin\Debug\ContactsList.exe.config
+C:\Users\User\Desktop\C#Projects\ContactsList\ContactsList\bin\Debug\ContactsList.exe
+C:\Users\User\Desktop\C#Projects\ContactsList\ContactsList\bin\Debug\ContactsList.pdb
+C:\Users\User\Desktop\C#Projects\ContactsList\ContactsList\obj\Debug\ContactsList.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#Projects\ContactsList\ContactsList\obj\Debug\ContactsList.Contacts.resources
+C:\Users\User\Desktop\C#Projects\ContactsList\ContactsList\obj\Debug\ContactsList.Properties.Resources.resources
+C:\Users\User\Desktop\C#Projects\ContactsList\ContactsList\obj\Debug\ContactsList.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C#Projects\ContactsList\ContactsList\obj\Debug\ContactsList.exe
+C:\Users\User\Desktop\C#Projects\ContactsList\ContactsList\obj\Debug\ContactsList.pdb
